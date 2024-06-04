@@ -2,6 +2,20 @@
 title: "About me"
 ---
 
-Add some text and a figure describing myself.
+## Background
 
-For details, see the exercise instructions. 
+Over the years, through my work and academic experiences, I have learned to overcome challenges by focusing on aspects within my control. I recently realized that there is a difference between simple and easy: simple is not complicated, while easy means it requires little effort. My approach is simple: step out in faith and take that first step. When I get there, I will look back and wonder why it took me so long to start.
+
+I am blessed with a supportive family, friends, and a community of like-minded individuals. We are not meant to walk this life alone; the beauty of life lies in sharing the little moments with those dear to us. I have the opportunity to develop my career as a Data Analyst, learning consumer behaviorism, conducting price shops to gather competitive market pricing and provide suggestions, and developing charts, graphs, and reports to convey relevant metrics.
+
+In the Spring of 2021, I earned my Bachelor of Science in Mathematics from the University of Texas at San Antonio, and I am currently enrolled in the Data Analytics Master's program, scheduled to graduate in Spring 2025.
+
+Through my work and academic experience, I have become proficient in data analysis and interpretation using Tableau and RStudio, and I am currently expanding my proficiency in Python, GRTL, and SAS(SQL). Additionally, I am skilled with Microsoft Office tools, including Excel, Word, PowerPoint, and Access. I possess strong communication skills in both English and Spanish. I am detail-oriented, able to reason logically, and prioritize efficiently. I am a quick learner with a passion for continuous self-improvement, demonstrating initiative and eagerness to learn. I also have proficient problem-solving skills.
+
+I am originally from a small town called Marble Falls in the Hill Country and moved to San Antonio in January 2017. I try to take advantage of everything the city offers. When I am not working on my academics or career, you are likely to find me spending time with my family, exploring the rich history of the city, eating its authentic food, or walking my five-year-old pug named Mel.
+
+![](Jramirez.jpeg){width="200"}
+
+### **Our greatest weakness lies in giving up. The most certain way to succeed is to always try just one more time."**
+
+### - Thomas Edison
