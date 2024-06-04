@@ -1,15 +1,22 @@
 ---
-title: "My website and data analysis portfolio"
+title: "Joaquin Ramirez"
 ---
 
-# Hello
+# Welcome!
 
-### And hello again
+### Explore, Discover, and Dive into Data
 
-Welcome to **my website** and _data analysis portfolio._ 
+Welcome to my digital portfolio where I showcase my data analysis projects and insights. I'm passionate about uncovering meaningful patterns in data and turning them into actionable insights. Whether it's exploring trends, building predictive models, or visualizing data in innovative ways, I love the journey of discovery that comes with being a data analyst.
 
+-   **Explore Projects**: Use the navigation menu above to browse through my projects. Each project offers a glimpse into my analytical skills and problem-solving approach.
+-   **Discover Insights**: Dive into the data with me and uncover fascinating insights. From exploratory data analysis to advanced statistical modeling, I strive to extract actionable insights from complex datasets.
+-   **Connect with Me**: Have questions, feedback, or collaboration opportunities? Feel free to reach out through the contact information provided below. I'm always open to connecting with fellow data enthusiasts and professionals.
 
-* Please use the `Menu Bar` above to look around.
-* Have fun!
+Let's embark on a data-driven journey together!
 
-**Feel free to change this text any way you want 😁!**
+## Contact Me
+
+| **Contact Information:**                                                        | **Social Media Links:**                                      |
+|---------------------------------------------------------------------------------|--------------------------------------------------------------|
+| **Email**: [joaquin.dj.ramirez\@gmail.com](mailto:joaquin.dj.ramirez@gmail.com) | [LinkedIn](www.linkedin.com/in/joaquin-ramirez-43b4a6179)    |
+| **Phone**: +1 (830) 220-0703                                                    | [GitHub](https://github.com/Jramirez1995/joaquinramirez.git) |
