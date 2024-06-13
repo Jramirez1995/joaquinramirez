@@ -1,7 +1,7 @@
 ---
 title: "Manuscript/Report Template for a Data Analysis Project"
 subtitle: ""
-author: Seth Harris
+author: Joaquin Ramirez
 date: today
 format:
   html:
@@ -12,7 +12,7 @@ bibliography: ../dataanalysis-template-references.bib
 csl: ../apa.csl
 ---
 
-## JOAQUIN RAMIREZ CONTRIBUTED TO THIS EXERCISE
+## Seth Harris CONTRIBUTED TO THIS EXERCISE
 
 The structure below is one possible setup for a data analysis project (including the course project). For a manuscript, adjust as needed. You don't need to have exactly these sections, but the content covering those sections should be addressed.
 
