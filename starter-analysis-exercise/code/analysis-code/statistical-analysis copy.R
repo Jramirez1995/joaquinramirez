@@ -53,4 +53,17 @@ print(lmtable2)
 table_file2 = here("starter-analysis-exercise","results", "tables-files", "resulttable2.rds")
 saveRDS(lmtable2, file = table_file2)
 
+# Fit linear model using Height as outcome, Age and Occupation as predictors
+lmfit3 <- lm(Height ~ Age + Occupation, mydata)
+
+# Place results from fit into a data frame with the tidy function
+lmtable3 <- broom::tidy(lmfit3)
+
+# Look at fit results
+print(lmtable3)
+
+# Save fit results table
+table_file3 <- here("starter-analysis-exercise", "results", "tables-files", "resulttable3.rds")
+saveRDS(lmtable3, file = table_file3)
+
   
